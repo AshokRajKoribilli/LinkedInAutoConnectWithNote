@@ -9,7 +9,7 @@ Linkedin = {
 		// set to false to skip adding note in invites
 		addNote: true,
 		//   note: "Hi, I’m Ashok Raj Koribilli, a Java Full Stack Developer with 3 years of experience in Java, Spring, React, and AWS. I’m seeking opportunities to contribute to impactful solutions in an agile. Let’s connect if you have roles aligning with my skills in Java development, cloud services, and CI/CD pipelines.",
-		note: "Hi this is Ashok Raj Koribilli, with 3 years in Java, Spring, React, and AWS, I excel in developing apps and optimizing cloud services. Let's connect to discuss how I can contribute to your organization.",
+		note: "Hi this is Ashok Raj Koribilli, with 3 years in Java, Spring, React, and AWS, I excel in developing apps and cloud services. Let's connect to discuss how I can contribute to your organization.",
 	},
 	init: function (data, config) {
 		console.info("INFO: script initialized on the page...");
